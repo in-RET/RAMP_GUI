@@ -2,21 +2,15 @@
 RAMP_GUI
 ========
 
+RAMP_GUI can be used in a three way. Three folder can be found in RAMP_GUI dictionory.
 
-.. image:: https://img.shields.io/pypi/v/ramp_gui.svg
-        :target: https://pypi.python.org/pypi/ramp_gui
+1. RAMP_GUI_Local_App : An executable file of RAMP can be used as an app. (Once created python or no other depending software required)
+2. RAMP_GUI_Stanalone_file : RAMP GUI can be used simply by running RAMP.py independently.
+3. RAMP_GUI_graphic_depended : RAMP GUI can be used in a same way but RAMP.ui file must be in the same folder. GUI design can be changed using .ui file by opening it in Qt designer.
 
-.. image:: https://img.shields.io/travis//ramp_gui.svg
-        :target: https://travis-ci.com//ramp_gui
-
-.. image:: https://readthedocs.org/projects/ramp-gui/badge/?version=latest
-        :target: https://ramp-gui.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
+Detail steps to use each individual RAMP_GUI can be found in individual folder with Read_me file.
 
 
-
-
-Automated Creation and visualization of input files for an open-source tool
 
 
 * Free software: MIT license
@@ -26,10 +20,18 @@ Automated Creation and visualization of input files for an open-source tool
 Features
 --------
 
-* TODO
+* TODO (Scope of further developement / correction)
+- GUI allows us to provide Time window from 00:00 to 23:59 (HH:MM). It does not allow 24:00. That can be corrected.
+- Each countries have different holidays, Country selection option and Holidays accordingly can be programmed.
+- More features can be added.
 
 Credits
 -------
+- RAMP
+- Bhavesh Soni
+- Hochschule Nordhausen
+- Qt
+- PyQt5
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
