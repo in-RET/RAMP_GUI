@@ -5,6 +5,6 @@ Credits
 
 Contributors
 ------------
-Bhaveshkumar Soni
-Hochschule Nordhausen
+Bhaveshkumar Soni.
+Hochschule Nordhausen.
 
