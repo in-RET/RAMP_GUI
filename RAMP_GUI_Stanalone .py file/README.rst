@@ -1,6 +1,6 @@
 This project is open-source. Interested users are therefore invited to test, comment or contribute to the tool.
 
-Simply run RAMP.py file and you will be able to use RAMP GUI. (Python 3 or above must be installed)
+Simply run RAMP.py file and you will be able to use RAMP GUI. (Python 3 or above must be installed).
 You may watch video on how to use RAMP_GUI here https://drive.google.com/file/d/1CZ8g5DOgo2e4h3vLrdSVpGt-KVbYaEVt/view
 
 Requirement : Python 3 and above
