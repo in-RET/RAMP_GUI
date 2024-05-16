@@ -19,18 +19,19 @@ Detailed instructions for utilizing each individual RAMP_GUI variant can be foun
 Whichever way you use RAMP_GUI, The GUI is same. You may watch tutorial video on how to use RAMP.
 https://drive.google.com/file/d/1CZ8g5DOgo2e4h3vLrdSVpGt-KVbYaEVt/view 
 
-
 **Features**
---------
+---------------
+-
 
-** TODO (Scope of further developement / correction)**
+**TODO (Scope of further developement / correction)**
 --------------------------------------------------------
 - Allowing GUI input for the 24:00 time window, which is currently restricted. (Current GUI allows us to provide Time window from 00:00 to 23:59 (HH:MM), It does not allow 24:00. That one minutes needs to be offset by user)
 - Each countries have different holidays, Implementing country-specific holiday selection options to accommodate varying holiday schedules.
 - Addition of more features and functionalities to enhance user experience.
 
+--------------
 **Credits**
--------
+--------------
 - RAMP
 - Bhavesh Soni
 - Hochschule Nordhausen
