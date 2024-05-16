@@ -4,8 +4,7 @@
 
 
 import unittest
-
-from ramp_gui import ramp_gui
+from src.ramp_gui import ramp_gui
 
 
 class TestRamp_gui(unittest.TestCase):
@@ -19,3 +18,4 @@ class TestRamp_gui(unittest.TestCase):
 
     def test_000_something(self):
         """Test something."""
+        ramp_gui.ramp_gui()

@@ -2,6 +2,8 @@
 Usage
 =====
 
-To use RAMP_GUI in a project::
+To use RAMP_GUI::
 
-    import ramp_gui
+1. Create an environment with the requirements.
+
+2. python main.py
