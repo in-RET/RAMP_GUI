@@ -1,5 +1,4 @@
 You may use RAMP as an App in your pc. (Once RAMP's Executable file is created, you may use this App without python installed)
-
 You only once need to bundle all files from this folder into .exe file, which is very simple. Here under are the steps.
 
 1. Download all file from this folder named 'RAMP_GUI_Local_App' and save that folder somewhere into a local drive in your PC.(not system drive)
