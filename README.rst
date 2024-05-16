@@ -4,9 +4,14 @@ RAMP_GUI
 
 RAMP_GUI can be used in a three way. Three folder can be found in RAMP_GUI dictionory.
 
-1. RAMP_GUI_Local_App : An executable file of RAMP can be used as an app. (Once created python or no other depending software required)
-2. RAMP_GUI_Stanalone_file : In this directory, users can utilize RAMP GUI by simply running the RAMP.py file independently. This method allows for standalone usage without the need for external dependencies.
-3. RAMP_GUI_graphic_depended : Similar to the standalone file approach, RAMP GUI can be utilized in this directory. However, it requires the RAMP.ui file to be present in the same folder. Additionally, users can modify the GUI design using the .ui file by opening it in Qt Designer.
+1. RAMP_GUI_Local_App : 
+An executable file of RAMP can be used as an app. (Once created python or no other depending software required)
+
+2. RAMP_GUI_Stanalone_file : 
+In this directory, users can utilize RAMP GUI by simply running the RAMP.py file independently. This method allows for standalone usage without the need for external dependencies.
+
+3. RAMP_GUI_graphic_depended : 
+Similar to the standalone file approach, RAMP GUI can be utilized in this directory. However, it requires the RAMP.ui file to be present in the same folder. Additionally, users can modify the GUI design using the .ui file by opening it in Qt Designer.
 
 Detailed instructions for utilizing each individual RAMP_GUI variant can be found within their respective folders, provided in accompanying Read_me files.
 
