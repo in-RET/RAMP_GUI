@@ -2,12 +2,9 @@
 Credits
 =======
 
-Development Lead
-----------------
-* Bhaveshkumar Soni <bhaveshkumar.soni@hs-nordhausen.de>
 
 Contributors
 ------------
-Bhaveshkumar Soni
+Bhaveshkumar Soni.
+Hochschule Nordhausen.
 
-None yet. Why not be the first?
